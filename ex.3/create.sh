@@ -9,5 +9,6 @@ function _ex() {
     git commit -m "first commit"
 }
 
-_create _ex
+_create 
+_ex
 

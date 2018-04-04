@@ -15,5 +15,6 @@ function _ex() {
     echo "three" >> first.txt
 }
 
-_create _ex
+_create 
+_ex
 

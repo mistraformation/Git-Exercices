@@ -17,4 +17,5 @@ function _ex() {
     git commit --amend -m "Added one"
 }
 
-_create _ex
+_create 
+_ex
