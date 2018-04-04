@@ -1,4 +1,4 @@
-You just realized that you have commited a backup file: main.cpp~.
+You've just realized that you have commited a backup file: main.cpp~.
 
 Backup files should not be commited, let's correct that mistake.
 

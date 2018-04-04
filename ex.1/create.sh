@@ -9,5 +9,6 @@ function _ex() {
     git add first.txt
 }
 
-_create _ex
+_create
+_ex
 

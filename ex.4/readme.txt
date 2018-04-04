@@ -4,8 +4,7 @@ But somehow there's a bug.
 
 It's late, your partner wants you to go home.
 
-Hell, maybe a good night sleep (or a good night something else)
-will help you find that stupid bug.
+Hell, maybe a good night sleep will help you find that stupid bug.
 
 So you want to go home, but you don't want to leave the work unsaved,
 that would be unprofessional. And you're a pro.
